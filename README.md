@@ -1,0 +1,1 @@
+HbaseDemo test with spring hadoop data
